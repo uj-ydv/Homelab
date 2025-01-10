@@ -19,6 +19,6 @@ TO-DO : Configuration setting
 
 ### Future Roadmap
 - More Apps(Ofcourse)
-- Gitops : Either ArgoCD or Flux(already have a repo with argo kustomization setup)
+- Gitops : Either Argo or Flux(already have a repo with argo kustomization setup while playing around earlier)
 - Secrets Management
 - Service Mesh(Only play around and not really deploy)
