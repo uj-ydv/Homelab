@@ -2,19 +2,19 @@
 Welcome to the Homelab repository! This repository contains the setup and configuration files for running a K3s single-node cluster with various self-hosted applications and services.
 
 
-## Applications
+### Applications
 
 
-## Storage Setup
+### Storage Setup
 
 
-## Ingress Controller
+### Ingress Controller
 
 
-## Managing Applications
+### Managing Applications
 
 
-## Future Roadmap
+### Future Roadmap
 - More Apps(Ofcourse)
 - Gitops : Either ArgoCD or Flux(already have a repo with argo kustomization setup)
 - Secrets Management
