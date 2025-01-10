@@ -1,24 +1,24 @@
 # Homelab
 Welcome to the Homelab repository! This repository contains the setup and configuration files for running a K3s single-node cluster with various self-hosted applications and services.
 
-### Expose Apps via Cloudflare Tunnel(Optional)
+### **Expose Apps via Cloudflare Tunnel(Optional)**
 You can securely expose your applications to the internet using Cloudflare Tunnel, which ensures that your services are accessible from anywhere without opening ports on your router.
 
 To-Do : Configuration setup/setting
 
-### Applications
+### **Applications**
 
 
-### Storage Setup
+### **Storage Setup**
 
 
-### Ingress Controller
+### **Ingress Controller**
 
 
-### Managing Applications
+### **Managing Applications**
 
 
-### Future Roadmap
+### **Future Roadmap**
 - More Apps(Ofcourse)
 - Gitops : Either Argo or Flux(already have a repo with argo kustomization setup while playing around earlier)
 - Secrets Management
