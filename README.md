@@ -6,11 +6,15 @@ You can securely expose your applications to the internet using Cloudflare Tunne
 
 To-Do : Configuration setup/setting
 
-### **Applications**
-
+### **Applications** - To-Do
+- Hoarder
+- Obsidian
+- Code Server
+- Mealie
+- Vaultwarden(Do i really want to do it ?)
 
 ### **Storage Setup**
-
+Since I'm operating a single-node cluster for my homelab, I am utilizing local storage for my storage needs. This approach simplifies my setup, as I don't require the complexities of a multi-node distributed storage solution. For now, local storage remains the most practical and performant solution, considering the scale and nature of my homelab environment. However, I would continue to evaluate other storage solutions as my homelab evolves.
 
 ### **Ingress Controller**
 
