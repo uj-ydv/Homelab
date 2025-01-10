@@ -4,7 +4,7 @@ Welcome to the Homelab repository! This repository contains the setup and config
 ### Expose Apps via Cloudflare Tunnel(Optional)
 You can securely expose your applications to the internet using Cloudflare Tunnel, which ensures that your services are accessible from anywhere without opening ports on your router.
 
-TO-DO : Configuration setting
+To-Do : Configuration setup/setting
 
 ### Applications
 
