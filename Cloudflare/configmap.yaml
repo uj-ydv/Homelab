@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: cloudflared-env
-  namespace: cloudfare
-data:
-    # Add your environment variables here
-    TUNNEL_TOKEN: <Your Cloudflare Token>
-    
