@@ -17,7 +17,7 @@ To-Do : Configuration setup/setting
 Since I'm operating a single-node cluster for my homelab, I am utilizing local storage for my storage needs. This approach simplifies my setup, as I don't require the complexities of a multi-node distributed storage solution. For now, local storage remains the most practical and performant solution, considering the scale and nature of my homelab environment. However, I would continue to evaluate other storage solutions as my Kubernetes setup evolves.
 
 ### Secrets Management
-I'm currently using .env files for variables and secret. Plan on integrating Infiscal for secrets.
+I'm currently using .env files for variables and secret. Plan on integrating Secret management solution.
 
 ### **Ingress Controller**
 Traefik
@@ -28,6 +28,6 @@ Traefik
 ### **Future Roadmap**
 - More Apps(Ofcourse)
 - Gitops : Either Argo or Flux(already have a repo with argo kustomization setup while playing around earlier)
-- Secrets Management : Infiscal
+- Secrets Management : Infiscal/Vault/SOPS?
 - Service Mesh(Only play around and not really deploy)
 - Kubernetes : Moving to Multi-Node Cluster
